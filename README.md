@@ -1,5 +1,3 @@
-# Algoritmos-Geneticos-Machine-Learning
-Algoritmos genéticos aplicados al aprendizaje automático para: selección de características (Feature Selection), optimización de hiperparámetros (Hyperparameter Optimization) y búsqueda de la mejor arquitectura de redes neuronales (Neuroevolution).
 # Algoritmos Genéticos aplicados a Machine Learning — Dataset de Museos
 
 Este repositorio contiene tres implementaciones de **Algoritmos Genéticos (AG)** aplicados a distintos problemas de Machine Learning sobre un dataset de visitantes a museos en Perú. Cada script aborda una etapa distinta del pipeline de modelado: selección de características, optimización de hiperparámetros y neuroevolución de arquitecturas.
