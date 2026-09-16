@@ -13,7 +13,7 @@ Este repositorio contiene tres implementaciones de **Algoritmos Genéticos (AG)*
 
 ## Dataset
 
-Los tres scripts utilizan el archivo `base de datos museos_5.csv` (separador `;`, codificación `latin-1`), que **no está incluido en este repositorio** y debe colocarse en la misma carpeta que los scripts antes de ejecutarlos.
+Los tres scripts utilizan el archivo `base de datos museos_5.csv` (separador `;`, codificación `latin-1`)  y debe colocarse en la misma carpeta que los scripts antes de ejecutarlos.
 
 ## Requisitos
 
